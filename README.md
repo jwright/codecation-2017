@@ -26,7 +26,7 @@ The conference is in Seattle, WA. The plan is to take a train from Toledo, OH to
 
 ## Travel
 
-This is the current travel plan. The travel on train will require wifi or there will be a lot of wasted time.
+This is the travel plan if we don't want to be married since we will not be around for Easter. The travel on train will require wifi or there will be a lot of wasted time.
 
 ### Train from Toledo to Chicago
 
@@ -95,9 +95,15 @@ The conference is in Seattle, WA. The plan is to fly from DTW to Seattle, WA for
 
 ## Travel
 
+This is the travel plan if we want to be married since we will be at home during Easter. The travel on train will require wifi or there will be a lot of wasted time.
+
 ### Airline from Toledo to Seattle
 
+Most likely a one way flight from DTW to SEA.
+
 ### Seattle stay
+
+Deconstruct recommends staying either at the [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) or renting an [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=).
 
 ### Train from Seattle to Vancouver
 
@@ -108,3 +114,29 @@ The conference is in Seattle, WA. The plan is to fly from DTW to Seattle, WA for
 ### Train from Chicago to Toledo
 
 ## The Benjamins
+
+# The Travel Details
+
+## Train from Toledo to Chicago
+
+The route for an Amtrak train from Toledo to Chicago (where we will transfer for Vancouver) is called [Capitol Limited](https://www.amtrak.com/ccurl/280/507/Amtrak-Capitol-Limited-Train-Route-Guide.pdf).
+
+## Train from Chicago to Vancouver
+
+The route for an Amtrack train from Chicago to Vancouver is called [Empire Builder](https://www.amtrak.com/ccurl/229/381/Amtrak-Empire-Builder-Train-Route-Guide.pdf). There are a few other ones but this is not only the cheapest but also has the best scenery as it goes near the Canadian rockies.
+
+### Vancouver stay
+
+I think we should stay at an AirBnb in Vancouver. This will be cheaper and allow us to collaborate better than a hotel room would. We can get around by Uber and/or bike.
+
+### Train from Vancouver to Seattle
+
+The route for an Amtrack train from Vancouver to Seattle is called [Cascades](http://amtrakcascades.com). There is also a bus option that is a bit faster we can check out.
+
+### Seattle stay
+
+Deconstruct recommends staying either at the [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) or renting an [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=).
+
+There are also [other hotels](https://www.google.com/maps/search/Hotels/@47.6149034,-122.3261398,16z) available.
+
+### Airline from Seattle to Toledo
