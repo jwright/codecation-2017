@@ -1,9 +1,16 @@
 Codecation 2017
 ===============
 
-## The Plan
+## The Peeps
 
-The current plan is to take a codecation from April 15th - April 20th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 15th - April 19th and then attend the conference on April 20 - 21.
+Currently, there are 2 people committed.
+
+* [Jamie Wright](http://github.com/jwright) - Toledo
+* [Scott Radcliff](http://github.com/ScottRadcliff) - Toledo
+
+## Plan `Skip Easter`
+
+This plan (which skips family time because of Easter) is to take a codecation from April 15th - April 20th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 15th - April 19th and then attend the conference on April 20 - 21.
 
 The conference is in Seattle, WA. The plan is to take a train from Toledo, OH to Vancover, BC, stay in Vancouver, BC for a few days, and then take a train down to Seattle, WA for the conference. We'll be up for our own to travel back but the best option is probably a one way airline ticket to DTW.
 
@@ -16,13 +23,6 @@ The conference is in Seattle, WA. The plan is to take a train from Toledo, OH to
 * April 19th - Travel from Vancouver to Seattle
 * April 19th - April 21st - Stay in Seattle (Deconstruct Conference)
 * April 21st - Travel back to Toledo
-
-## The Peeps
-
-Currently, there are 2 people committed.
-
-* [Jamie Wright](http://github.com/jwright) - Toledo
-* [Scott Radcliff](http://github.com/ScottRadcliff) - Toledo
 
 ## Travel
 
