@@ -206,3 +206,5 @@ The [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPA
 The average cost for a night at an AirBnb is around $70 - $160.
 
 ### Total travel per person ~ $915/per person
+
+We could also depart Seattle the same night that the conference ends. This may reduce cost since it seems to be cheaper to stay in Vancouver.
