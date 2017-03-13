@@ -1,14 +1,14 @@
 Codecation 2017
 ===============
 
-## The Peeps
+# The Peeps
 
 Currently, there are 2 people committed.
 
 * [Jamie Wright](http://github.com/jwright) - Toledo
 * [Scott Radcliff](http://github.com/ScottRadcliff) - Toledo
 
-## Plan `Skip Easter`
+# Plan `Skip Easter`
 
 This plan (which skips family time because of Easter) is to take a codecation from April 15th - April 20th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 15th - April 19th and then attend the conference on April 20 - 21.
 
@@ -77,3 +77,34 @@ The average one way flight from Seattle to Detroit ranges from $160 - $235. We w
 ### Total travel per person ~ $950/per person
 
 We could reduce this if we do not stay in Vancouver. But it's Vancouver.
+
+# Plan `Stay Married`
+
+This plan (which does not skip family time for Easter) is to take a codecation from April 19th - April 26th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 21st - April 26th after attending the conference on April 20 - 21.
+
+The conference is in Seattle, WA. The plan is to fly from DTW to Seattle, WA for the conference for a few days, and then take a train from Seattle, WA to Vancouver, WA before taking a train back to Toledo, OH.
+
+## The Dates
+
+* April 19th - Departure from Toledo
+* April 19th - April 21st - Stay in Seattle (Deconstruct Conference)
+* April 21st - Travel from Seattle to Vancouver by train
+* April 21st - April 24th - Stay in Vancouver
+* April 24th - April 26th Travel from Vancouver to Chicago by train
+* April 26th - Travel from Chicago to Toledo by train
+
+## Travel
+
+### Airline from Toledo to Seattle
+
+### Seattle stay
+
+### Train from Seattle to Vancouver
+
+### Vancouver stay
+
+### Train from Vancouver to Chicago
+
+### Train from Chicago to Toledo
+
+## The Benjamins
