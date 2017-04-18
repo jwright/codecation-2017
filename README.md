@@ -3,278 +3,78 @@ Codecation 2017
 
 # The Peeps
 
-Currently, there are 2 people committed.
+There are 2 people committed.
 
 * [Jamie Wright](http://github.com/jwright) - Toledo
 * [Scott Radcliff](http://github.com/ScottRadcliff) - Toledo
 
-# Plan `Skip Easter`
+# The Plan
 
-This plan (which skips family time because of Easter) is to take a codecation from April 15th - April 20th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 15th - April 19th and then attend the conference on April 20 - 21.
+The plan is to take a codecation from April 19th - April 25th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 21st - April 25th after attending the conference on April 20 - 21.
 
-The conference is in Seattle, WA. The plan is to take a train from Toledo, OH to Vancover, BC, stay in Vancouver, BC for a few days, and then take a train down to Seattle, WA for the conference. We'll be up for our own to travel back but the best option is probably a one way airline ticket to DTW.
+The conference is in Seattle, WA. The plan is to fly from Detroit, MI to Seattle, WA for the conference for a few days and work from an AirBnB for several days before travelling back to Detroit via a flight.
 
-## The Dates
+## Interesting things to do
 
-* April 15th - Departure from Toledo
-* April 15th - Travel from Toledo to Chicago by train
-* April 15th - April 17th - Travel from Chicago to Vancouver by train
-* April 17th - April 19th - Stay in Vancouver
-* April 19th - Travel from Vancouver to Seattle
-* April 19th - April 21st - Stay in Seattle (Deconstruct Conference)
-* April 21st - Travel back to Toledo
+* [Deconstruct Conf Party](http://deconstructconf.com/party.html)
+* [Bruce Lee Grave Site](https://www.tripadvisor.com/Attraction_Review-g60878-d615595-Reviews-Bruce_Lee_Grave_Site-Seattle_Washington.html) - This one's for Jamie
+* [Pike Place Fish Throw](https://www.pikeplacefish.com/)
 
-## Travel
+## Interesting places to eat
 
-This is the travel plan if we don't want to be married since we will not be around for Easter. The travel on train will require wifi or there will be a lot of wasted time.
+* [Smith](http://www.smithseattle.com/)
+* [Volunteer Park Cafe and Marketplace](http://alwaysfreshgoodness.com/)
+* [Liberty](http://www.libertybars.com/)
+* [Quinn's Bar](http://www.quinnspubseattle.com/)
+* [Artusi](http://www.artusibar.com/)
+* [Pinto Bistro Thai & Sushi Bar](http://www.pintobistro.com/)
+* [8 oz. Burger Bar](http://8ozburgerandco.com/)
+* [Canon Whisky Emporium](http://www.canonseattle.com/)
 
-### Train from Toledo to Chicago
+# The Dates
 
-The route for an Amtrak train from Toledo to Chicago (where we will transfer for Vancouver) is called [Capitol Limited](https://www.amtrak.com/ccurl/280/507/Amtrak-Capitol-Limited-Train-Route-Guide.pdf).
-
-### Train from Chicago to Vancouver
-
-The route for an Amtrack train from Chicago to Vancouver is called [Empire Builder](https://www.amtrak.com/ccurl/229/381/Amtrak-Empire-Builder-Train-Route-Guide.pdf). There are a few other ones but this is not only the cheapest but also has the best scenery as it goes near the Canadian rockies.
-
-### Vancouver stay
-
-I think we should stay at an AirBnb in Vancouver. This will be cheaper and allow us to collaborate better than a hotel room would. We can get around by Uber and/or bike.
-
-### Train from Vancouver to Seattle
-
-The route for an Amtrack train from Vancouver to Seattle is called [Cascades](http://amtrakcascades.com). There is also a bus option that is a bit faster we can check out.
-
-### Seattle stay
-
-Deconstruct recommends staying either at the [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) or renting an [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=).
-
-There are also [other hotels](https://www.google.com/maps/search/Hotels/@47.6149034,-122.3261398,16z) available.
-
-### Airline from Seattle to Toledo
-
-## The Benjamins
-
-### Train from Toledo to Vancouver ~ $315/per person
-
-The train from Toledo to Chicago, where we need to transfer does not need to be fancy since it's only a 4.5 hour train ride. If we purchase this seperately, we can get a seat for $35/per person.
-
-The train from Chicago to Vancouver, we will probably want a cabin so we don't have to sleep in our seats. This will allow us to sustain the whole trip. If we purchase this seperately, we can get a cabin for $481 for the room. I believe this covers both tickets but I am unsure.
-
-### Vancouver stay ~ $200/per person
-
-The average cost for a night at an AirBnb is around $70 - $160.
-
-### Train from Vancouver to Seattle ~ $32/per person
-
-### Seattle stay ~ $215/per person
-
-The [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) is an average of $197/night. The [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=) is an average of $180/night.
-
-### Airline from Seattle to Detroit ~ $180/per person
-
-The average one way flight from Seattle to Detroit ranges from $160 - $235. We would have to leave after 6pm on the same day of the conference.
-
-### Total travel per person ~ $950/per person
-
-We could reduce this if we do not stay in Vancouver. But it's Vancouver.
-
---------------------
-
-# Plan `Stay Married`
-
-This plan (which does not skip family time for Easter) is to take a codecation from April 19th - April 26th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 21st - April 26th after attending the conference on April 20 - 21.
-
-The conference is in Seattle, WA. The plan is to fly from DTW to Seattle, WA for the conference for a few days, and then take a train from Seattle, WA to Vancouver, WA before taking a train back to Toledo, OH.
-
-## The Dates
-
-* April 19th - Departure from Toledo
-* April 19th - April 21st - Stay in Seattle (Deconstruct Conference)
-* April 21st - Travel from Seattle to Vancouver by train
-* April 21st - April 24th - Stay in Vancouver
-* April 24th - April 26th Travel from Vancouver to Chicago by train
-* April 26th - Travel from Chicago to Toledo by train
-
-## Travel
-
-This is the travel plan if we want to be married since we will be at home during Easter. The travel on train will require wifi or there will be a lot of wasted time.
-
-### Airline from Toledo to Seattle
-
-Most likely a one way flight from DTW to SEA.
-
-### Seattle stay
-
-Deconstruct recommends staying either at the [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) or renting an [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=).
-
-There are also [other hotels](https://www.google.com/maps/search/Hotels/@47.6149034,-122.3261398,16z) available.
-
-### Train from Seattle to Vancouver
-
-The route for an Amtrack train from Vancouver to Seattle is called [Cascades](http://amtrakcascades.com). There is also a bus option that is a bit faster we can check out.
-
-### Vancouver stay
-
-I think we should stay at an AirBnb in Vancouver. This will be cheaper and allow us to collaborate better than a hotel room would. We can get around by Uber and/or bike.
-
-### Train from Vancouver to Chicago
-
-The route for an Amtrack train from Vancouver to Chicago is called [Empire Builder](https://www.amtrak.com/ccurl/229/381/Amtrak-Empire-Builder-Train-Route-Guide.pdf). There are a few other ones but this is not only the cheapest but also has the best scenery as it goes near the Canadian rockies.
-
-### Train from Chicago to Toledo
-
-The route for an Amtrak train from Chicago to Toledo (where we will transfer for Vancouver) is called [Capitol Limited](https://www.amtrak.com/ccurl/280/507/Amtrak-Capitol-Limited-Train-Route-Guide.pdf).
-
-## The Benjamins
-
-### Airline from Detroit to Seattle ~ $160/per person
-
-The average one way flight from Seattle to Detroit ranges from $136 - $180. We would have to leave the day before the conference.
-
-### Seattle stay ~ $215/per person
-
-The [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) is an average of $210/night. The [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=) is an average of $180/night.
-
-### Train from Vancouver to Seattle ~ $32/per person
-
-### Vancouver stay ~ $200/per person
-
-The average cost for a night at an AirBnb is around $70 - $160.
-
-### Train from Vancouver to Toledo ~ $315/per person
-
-The train from Vancouver to Chicago, we will probably want a cabin so we don't have to sleep in our seats. This will allow us to sustain the whole trip. If we purchase this seperately, we can get a cabin for $481 for the room. I believe this covers both tickets but I am unsure.
-
-The train from Chicago to Toledo, where we need to transfer does not need to be fancy since it's only a 4.5 hour train ride. If we purchase this seperately, we can get a seat for $35/per person.
-
-### Total travel per person ~ $950/per person
-
---------------------
-
-# Plan `Planes, No Trains`
-
-This plan (which does not skip family time for Easter) is to take a codecation from April 19th - April 26th, which lines up with [DeconstructConf](http://deconstructconf.com/). We will work on our projects from April 21st - April 26th after attending the conference on April 20 - 21.
-
-The conference is in Seattle, WA. The plan is to fly from DTW to Seattle, WA for the conference for a few days, take a train to Vancouver and work from an AirBnB for several days before travelling back to Toledo via a flight.
-
-## The Dates
-
-* April 19th - Departure from Toledo
+* April 19th - Departure from Toledo (via DTW)
 * April 19th - April 22nd - Stay in Seattle (Deconstruct Conference)
-* April 22nd - Travel from Seattle to Vancouver by train
-* April 22nd - April 26th - Stay in Vancouver
-* April 26th - Travel from Vancouver to Toledo by airline
+* April 22nd - April 25th - Stay in Seattle (Codecation)
+* April 25th - Travel from Seattle to Detroit
 
-## Travel
+# Travel
 
-This is the travel plan if we want to stay at the destination longer and not travel via train.
+## Airline from Toledo to Seattle
 
-### Airline from Toledo to Seattle
+* April 19th - DTW -> LAS (via Spirit Airlines 111)
+* April 19th - Layover in LAS for 3 hours
+* April 19th - LAS -> SEA (via Spirit Airlines 193)
 
-Most likely a round trip flight from DTW to SEA.
+## Seattle stay (Deconstruct Conf)
 
-### Seattle stay
+We are staying at the Deconstruct Conf recommended hotel, the [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17).
 
-Deconstruct recommends staying either at the [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) or renting an [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=).
+## Seattle stay (Codecation)
 
-There are also [other hotels](https://www.google.com/maps/search/Hotels/@47.6149034,-122.3261398,16z) available.
+We are staying in an AirBnb [here](https://www.airbnb.com/rooms/5470943).
 
-### Train from Seattle to Vancouver
+## Flight from Seattle to Toledo
 
-The route for an Amtrack train from Vancouver to Seattle is called [Cascades](http://amtrakcascades.com). There is also a bus option that is a bit faster we can check out.
+* April 25th - SEA -> DTW (via Alask Airlines 792)
 
-### Vancouver stay
+# The Benjamins
 
-I think we should stay at an AirBnb in Vancouver. This will be cheaper and allow us to collaborate better than a hotel room would. We can get around by Uber and/or bike.
+* Deconstruct Conf ticket - Jamie ($500.00) / Scott ($500.00)
+* Round trip ticket from DTW -> SEA - Jamie ($356.99) / Scott ($)
+* Bags from Spirit from DTW -> SEA - Jamie ($56.00) / Scott ($)
+* Hotel stay for Deconstruct Conf - Scott ($)
+* AirBnB stay for Codecation - Jamie ($745.00)
 
-### Flight from Seattle to Toledo
+----------------------------------------
 
-## The Benjamins
+* Subtotal - Jamie ($1657.99) / Scott ($)
+* Total - $
 
-### Round trip flight from Detroit to Seattle ~ $300/per person
+# The Work
 
-The average round trip flight from Detroit to Seattle ranges from $272 - $330. We would have to leave the day before the conference.
+Jamie plans on working on two existing products. [Tatsu](http://tatsu.io) and [Callback](http://callback.run). He hopes to complete a few important features for Tatsu. One is the ability to enter your standup early via a direct message. This is nearly complete and just requires using Slack's new menu feature and wrapping it with feature flags. Others are vaction notices and an early version of an asynchronous standup as well as some much overdue bug fixes.
 
-### Seattle stay ~ $315/per person
+In addition, Jamie hopes to complete and launch Callback. The backend API is nearly complete and most of the work revolves around the front end. He plans on using React for the front end with calls to an API.
 
-The [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) is an average of $210/night. The [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=) is an average of $180/night.
-
-### Train from Vancouver to Seattle ~ $32/per person
-
-### Vancouver stay ~ $300/per person
-
-The average cost for a night at an AirBnb is around $70 - $160.
-
-### Total travel per person ~ $915/per person
-
-We could also depart Seattle the same night that the conference ends. This may reduce cost since it seems to be cheaper to stay in Vancouver.
-
---------------------
-
-# Plan `The Sandwich`
-
-This plan is to take a codecation from April 17th - April 24th, which sandwiches the [DeconstructConf](http://deconstructconf.com/) in the middle. We will work on our projects from April 17th - April 19th, attend the conference on April 20 - 21 and then work on the projects from April 22 - 23rd.
-
-The conference is in Seattle, WA. The plan is to take a train from Toledo, OH to Seattle, WA, stay in Seattle, WA for a few days for the conference, and then take a train up to Vancouver, BC for the last few days of codecation. We'll be up for our own to travel back but the best option is probably a one way airline ticket to DTW.
-
-## The Dates
-
-* April 17th - Departure from Toledo
-* April 17th - Travel from Toledo to Chicago by train
-* April 17th - April 19th - Travel from Chicago to Seattle by train
-* April 19th - April 21st - Stay in Seattle (Deconstruct Conference)
-* April 21st - Travel from Seattle to Vancouver
-* April 21st - April 24th - Stay in Vancouver
-* April 24th - Travel back to Toledo
-
-## Travel
-
-This is the travel plan that compromises on staying married (I guess) and still takes a train ride for coding. The travel on train will require wifi or there will be a lot of wasted time.
-
-### Train from Toledo to Chicago
-
-The route for an Amtrak train from Toledo to Chicago (where we will transfer for Seattle) is called [Capitol Limited](https://www.amtrak.com/ccurl/280/507/Amtrak-Capitol-Limited-Train-Route-Guide.pdf).
-
-### Train from Chicago to Seattle
-
-The route for an Amtrack train from Chicago to Seattle is called [Empire Builder](https://www.amtrak.com/ccurl/229/381/Amtrak-Empire-Builder-Train-Route-Guide.pdf). There are a few other ones but this is not only the cheapest but also has the best scenery as it goes near the Canadian rockies.
-
-### Seattle stay
-
-Deconstruct recommends staying either at the [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) or renting an [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=).
-
-There are also [other hotels](https://www.google.com/maps/search/Hotels/@47.6149034,-122.3261398,16z) available.
-
-### Train from Vancouver to Seattle
-
-The route for an Amtrack train from Seattle to Vancouver is called [Cascades](http://amtrakcascades.com). There is also a bus option that is a bit faster we can check out.
-
-### Vancouver stay
-
-I think we should stay at an AirBnb in Vancouver. This will be cheaper and allow us to collaborate better than a hotel room would. We can get around by Uber and/or bike.
-
-### Airline from Vancouver to Toledo
-
-## The Benjamins
-
-### Train from Toledo to Seattle ~ $327.90/per person
-
-The train from Toledo to Chicago, where we need to transfer does not need to be fancy since it's only a 4.5 hour train ride. If we purchase this seperately, we can get a seat for $35/per person.
-
-The train from Chicago to Seattle, we will probably want a cabin so we don't have to sleep in our seats. This will allow us to sustain the whole trip. The rail fee for each person is $162.90 and the extra accomodation fee for both of us is $260 for a roolette (shower/shitter in seperate car). That makes it a total of $585.80 for both people or $292.90 per person.
-
-### Seattle stay ~ $270/per person
-
-The [Silver Cloud hotel](https://broadway.silvercloud.com/irm/irm.html?g=DECONPAR&o=BROADWAY17) is an average of $224/night. The [AirBnb](https://www.airbnb.com/s/SIFF-Cinema-Egyptian--East-Pine-Street--Seattle--WA--United-States?guests=1&adults=1&children=0&infants=0&place_id=ChIJRYoujsxqkFQRmkplI6z6w40&checkin=04%2F19%2F2017&checkout=04%2F21%2F2017&ss_id=37bqsgla&source=bb&page=1&s_tag=9tPM45qL&allow_override%5B%5D=) is an average of $180/night.
-
-### Vancouver stay ~ $200/per person
-
-The average cost for a night at an [AirBnb in Vancouver](https://www.airbnb.com/s/Vancouver--BC--Canada?guests=2&adults=2&children=0&infants=0&place_id=ChIJs0-pQ_FzhlQRi_OBm-qWkbs&checkin=04%2F21%2F2017&checkout=04%2F24%2F2017&ss_id=s29ihics&source=bb&page=1&allow_override%5B%5D=&room_types%5B%5D=Entire%20home%2Fapt&s_tag=r6H9Ue1Rh) is around $70 - $160.
-
-### Train from Seattle to Vancouver ~ $32/per person
-
-### Airline from Vancouver to Detroit ~ $210/per person
-
-The average one way flight from Vancouver to Detroit ranges from $139 - $235.
-
-### Total travel per person ~ $1040/per person
+# The Journal
