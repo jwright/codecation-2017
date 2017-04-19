@@ -61,9 +61,9 @@ We are staying in an AirBnb [here](https://www.airbnb.com/rooms/5470943).
 # The Benjamins
 
 * Deconstruct Conf ticket - Jamie ($500.00) / Scott ($500.00)
-* Round trip ticket from DTW -> SEA - Jamie ($356.99) / Scott ($)
-* Bags from Spirit from DTW -> SEA - Jamie ($56.00) / Scott ($)
-* Hotel stay for Deconstruct Conf - Scott ($)
+* Round trip ticket from DTW -> SEA - Jamie ($356.99) / Scott ($317.95)
+* Bags from Spirit from DTW -> SEA - Jamie ($56.00) / Scott ($56.00)
+* Hotel stay for Deconstruct Conf - Scott ($782.82)
 * AirBnB stay for Codecation - Jamie ($745.00)
 
 ----------------------------------------
